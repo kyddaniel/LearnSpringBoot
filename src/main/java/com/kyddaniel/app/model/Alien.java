@@ -1,4 +1,4 @@
-package com.kyddaniel.app;
+package com.kyddaniel.app.model;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

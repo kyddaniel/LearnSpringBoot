@@ -1,4 +1,4 @@
-package com.kyddaniel.app;
+package com.kyddaniel.app.model;
 
 import org.springframework.stereotype.Component;
 
